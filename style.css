@@ -1,28 +1,35 @@
 #websitetitle {
-    font-size: 128px;
+    font-size: 64px;
     color: rgb(43, 187, 231);
     font-weight: 200;
+    text-align: center;
 }
 
-.redtext {
-    color: red;
-    font-weight: 800;
+.normal {
+    text-align: center;
 }
 
 #first {
     display: inline-block;
     border: 2px black solid;
-    padding: 10px 0px;
-    margin: 100px 0px;
+    padding: 10px 10px;
+    margin: 0px 0px;
 }
 
-.big {
-    font-size: 64px;
+.link {
+    font-size: 24px;
+    text-decoration: none;
 }
 
 .container {
     display: inline-block;
-    width: 600px;
+    width: 900px;
     border: 2px block solid;
-    padding: 50px 20px;
+    padding: 0px 20px;
+    text-align: center;
+}
+
+.underline {
+    text-decoration: underline;
+    font-size: 32px
 }
