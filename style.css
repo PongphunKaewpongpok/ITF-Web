@@ -1,0 +1,28 @@
+#websitetitle {
+    font-size: 128px;
+    color: rgb(43, 187, 231);
+    font-weight: 200;
+}
+
+.redtext {
+    color: red;
+    font-weight: 800;
+}
+
+#first {
+    display: inline-block;
+    border: 2px black solid;
+    padding: 10px 0px;
+    margin: 100px 0px;
+}
+
+.big {
+    font-size: 64px;
+}
+
+.container {
+    display: inline-block;
+    width: 600px;
+    border: 2px block solid;
+    padding: 50px 20px;
+}
